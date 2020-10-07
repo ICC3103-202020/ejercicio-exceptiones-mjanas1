@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\UANDES\2020\Semestre2\poo clases\ejercico_excepciones\ejercico_excepciones\bin\Debug\ejercico_excepciones.exe.config
+C:\Users\matia\Desktop\UANDES\2020\Semestre2\poo clases\ejercico_excepciones\ejercico_excepciones\bin\Debug\ejercico_excepciones.exe
+C:\Users\matia\Desktop\UANDES\2020\Semestre2\poo clases\ejercico_excepciones\ejercico_excepciones\bin\Debug\ejercico_excepciones.pdb
+C:\Users\matia\Desktop\UANDES\2020\Semestre2\poo clases\ejercico_excepciones\ejercico_excepciones\obj\Debug\ejercico_excepciones.csprojAssemblyReference.cache
+C:\Users\matia\Desktop\UANDES\2020\Semestre2\poo clases\ejercico_excepciones\ejercico_excepciones\obj\Debug\ejercico_excepciones.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\UANDES\2020\Semestre2\poo clases\ejercico_excepciones\ejercico_excepciones\obj\Debug\ejercico_excepciones.exe
+C:\Users\matia\Desktop\UANDES\2020\Semestre2\poo clases\ejercico_excepciones\ejercico_excepciones\obj\Debug\ejercico_excepciones.pdb
